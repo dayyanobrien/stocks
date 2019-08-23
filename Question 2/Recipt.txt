@@ -1,0 +1,9 @@
+Product name: Product 4
+Product price: £9.99
+Product Number: 3
+
+Product name: Product 5
+Product price: £999.99
+Product Number: 18
+
+Total Price: £18029.79

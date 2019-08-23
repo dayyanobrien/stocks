@@ -1,0 +1,21 @@
+﻿
+GTIN-8 Code: 12345670
+Product name: Product 1
+Product price: £1.99
+Product amount: 3
+GTIN-8 Code: 12345671
+Product name: Product 2
+Product price: £2.99
+Product amount: 5
+GTIN-8 Code: 12345663
+Product name: Product 3
+Product price: £1.79
+Product amount: 1
+GTIN-8 Code: 88888880
+Product name: Product 4
+Product price: £9.99
+Product amount: 90
+GTIN-8 Code: 55555555
+Product name: Product 5
+Product price: £999.99
+Product amount: 7
